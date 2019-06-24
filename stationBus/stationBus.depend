@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559907274 source:/home/ITRANSITION.CORP/a.luzgin/example/StationBus2/stationBus/main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<string>
+
